@@ -1,0 +1,5 @@
+server:
+  hostname: "geektime.site"
+  port: 22
+  username: "root"
+  password: "123qweasdzxc."
